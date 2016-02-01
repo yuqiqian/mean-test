@@ -57,6 +57,7 @@
   "devDependencies": {
     "del": "latest",
     "expect.js": "latest",
+    "grunt": "^0.4.5",
     "gulp": "latest",
     "gulp-coffee": "latest",
     "gulp-concat": "latest",
